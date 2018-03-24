@@ -36,7 +36,7 @@ public class Author {
         return id;
     }
 
-    public void setIdM(Long id) {
+    public void setId(Long id) {
         this.id = id;
     }
 
